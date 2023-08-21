@@ -1,27 +1,20 @@
-# Deskripsi Aplikasi
- Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
+# GIS-Kakao
+Sistem Informasi Kebun Kakao berbasis web menggunakan CodeIgniter, Bootstrap, Leaflet.JS, GeoJSON dan MySQL
 
 # Framework
-* Codeigniter 3.1.11
-* Template Admin LTE  Versi 2.4
+* Codeigniter 
+* Template Admin LTE 
 
 # Penggunaan Login Akses
 
-<b>Petugas Perpus : </b>
+<b>Admin : </b>
 <br/>
-User : anang
+Username : admin
 <br/>
-Pass : 123
+Password : admin
 
-<b>Anggota Perpus :</b>
+<b>User :</b>
 <br/>
-User : fauzan
+Username : pajar
 <br/>
-Pass : 123
-
-# Contributors
-<a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
-
-My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
-
-Gunakan Aplikasi dengan bijak, dan selamat belajar
+Password : pajar
